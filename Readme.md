@@ -2,4 +2,4 @@
 
 ## README 수정
 
-pr merge test v3
+pr merge test v2
